@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Serdar Sagdic, MD
 - 👀 I’m interested in Artificial Intelligence in Healthcare.
-- 🌱 I’m currently learning CS50's Introduction to Computer Science from Harvard University.
 - 📫 You can reach me via drsagdic@gmail.com
